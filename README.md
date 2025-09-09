@@ -70,6 +70,10 @@ https://github.com/google/lmctfy
 
 https://en.wikipedia.org/wiki/Kubernetes
 
+https://sre.google/
+
+https://www.cncf.io/projects/cilium/?ajs_aid=c3cd3f60-9bf3-4147-aff5-c26610706ec8
+
 https://en.wikipedia.org/wiki/Seven_of_Nine
 
 
